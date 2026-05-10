@@ -1,0 +1,5 @@
+John Doe
+
+3 years experience in Python, SQL, Excel and Power BI.
+
+Worked on machine learning projects using pandas and numpy.
